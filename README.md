@@ -1,6 +1,3 @@
-**Search for more projects!**
-
-**Developed By Harish Thakare**
 
 **Instructions**
 - Install the Requirements: pip install -r requirements.txt
@@ -10,3 +7,4 @@
 
 
 **For Admin Login Credentials, please create one using superuser!**
+                                                      
